@@ -6,7 +6,7 @@ C++ software that read a database of played match of league 1, then offers stati
 amine@sbc16:~/L2/Projet$ ./foot -d ListeMatchs/ -e points -j buts
 
 Liste des equipes : trié par points
-#  Nom d'Equipe  points     
+   Nom d'Equipe  points     
 1   Paris-SG      68         
 2   Marseille     56         
 3   Rennes        50         
@@ -19,7 +19,7 @@ Liste des equipes : trié par points
 10  Angers        39         
 
 Liste des joueurs : trié par buts
-#   nom Joueur                      buts
+    nom Joueur                      buts
 1   K. Mbappe (Paris-SG)              18
 2   W. BenYedder (Monaco)             18
 3   M. Dembele (Lyon)                 16
