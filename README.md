@@ -3,6 +3,7 @@ C++ software that read a database of played match of league 1, then offers stati
 
 
 #Example
+```
 amine@sbc16:~/L2/Projet$ ./foot -d ListeMatchs/ -e points -j buts
 
 Liste des equipes : trié par points
@@ -30,3 +31,4 @@ Liste des joueurs : trié par buts
 8   D. Benedetto (Marseille)          11
 9   K. Dolberg (Nice)                 11
 10  M. Niang (Rennes)                 10
+```
